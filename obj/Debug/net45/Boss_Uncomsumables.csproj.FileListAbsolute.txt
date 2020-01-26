@@ -1,0 +1,31 @@
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Boss_Uncomsumables.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Boss_Uncomsumables.pdb
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Ionic.Zip.Reduced.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\log4net.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Microsoft.Xna.Framework.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Microsoft.Xna.Framework.Game.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Microsoft.Xna.Framework.Xact.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Modded Terraria.exe
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Mono.Cecil.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Mono.Cecil.Mdb.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Mono.Cecil.Pdb.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\MonoMod.RuntimeDetour.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\MonoMod.Utils.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\MP3Sharp.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\NVorbis.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\ReLogic.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Steamworks.NET.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\System.ValueTuple.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\TerrariaHooks.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Modded Terraria.pdb
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\Modded Terraria.xml
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\MonoMod.RuntimeDetour.xml
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\bin\Debug\net45\MonoMod.Utils.xml
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\obj\Debug\net45\Boss_Uncomsumables.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\obj\Debug\net45\Boss_Uncomsumables.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\obj\Debug\net45\Boss_Uncomsumables.AssemblyInfo.cs
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\obj\Debug\net45\Boss_Uncomsumables.csproj.CopyComplete
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\obj\Debug\net45\Boss_Uncomsumables.dll
+C:\Users\lucas\Documents\My Games\Terraria\ModLoader\Mod Sources\Boss_Uncomsumables\obj\Debug\net45\Boss_Uncomsumables.pdb

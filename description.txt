@@ -1,0 +1,22 @@
+Hate losing all of your boss summons on that very frustrating boss?
+Don't like having to go farming for more of those boss summons?
+Are the shops that only sell summons AFTER the boss is defeated not enough?
+
+Unconsumable Boss Summons is a mod that adds in boss summoning items that are infinitely usuable.
+Every Boss item can be crafted before their respective bosses.
+Giving you infinite attempts to kill a boss without having to go back to farming for their summoning items.
+All vanilla bosses by default have infinite summoning items.
+
+This mod also add in the ability to spawn in multiple of any boss with said summoning item
+You can disable/enable this feature in the Mod Configerations.
+
+Some recipes...
+
+Preserved Suspicious Looking Eye - 1 Suspicious Looking Eye, 3 Mushroom, 1 Bottle of Water.
+Worm Simulation (The Destroyer)- 1 Mechanical Worm, 10 wire, 5 iron.
+Lunar Seal (Cultist) - 10 Solar Tablet Fragments, 10 Temple Brick.
+
+
+
+
+The goal of the project is to eventually have infinite summons for all major content mods.

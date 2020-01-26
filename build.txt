@@ -1,0 +1,4 @@
+displayName = Infinite and Unconsumable Boss Summons
+author = Juni Knytt
+version = 1.0
+homepage = 

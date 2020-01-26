@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucas\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Boss_Uncomsumables\\Boss_Uncomsumables.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucas\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Boss_Uncomsumables\\Boss_Uncomsumables.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Boss_Uncomsumables\\Boss_Uncomsumables.csproj",
+        "projectName": "Boss_Uncomsumables",
+        "projectPath": "C:\\Users\\lucas\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Boss_Uncomsumables\\Boss_Uncomsumables.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Boss_Uncomsumables\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
