@@ -7,7 +7,7 @@ Every Boss item can be crafted before their respective bosses.
 Giving you infinite attempts to kill a boss without having to go back to farming for their summoning items.
 All vanilla bosses by default have infinite summoning items.
 
-This mod also add in the ability to spawn in multiple of any boss with said summoning item
+This mod also add in the ability to spawn in multiple of any boss with said summoning item.
 You can disable/enable this feature in the Mod Configerations.
 
 Some recipes...
