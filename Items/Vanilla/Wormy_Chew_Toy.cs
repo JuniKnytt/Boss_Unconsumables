@@ -19,7 +19,7 @@ using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
 
-namespace Boss_Uncomsumables.Items.Vanilla
+namespace Boss_Unconsumables.Items.Vanilla
 {
 	public class Wormy_Chew_Toy : ModItem
 	{
@@ -28,7 +28,7 @@ namespace Boss_Uncomsumables.Items.Vanilla
 		public override void SetStaticDefaults() 
 		{
 			DisplayName.SetDefault("Wormy Chew Toy"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
-			Tooltip.SetDefault("Not Comsumable\nSummons Eater of Worlds Indefinitely.\nA chew toy for a worms.\n'Awww, who's a good death worm.'");
+			Tooltip.SetDefault("Not consumable\nSummons Eater of Worlds Indefinitely.\nA chew toy for a worms.\n'Awww, who's a good death worm.'");
 			ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
 		}

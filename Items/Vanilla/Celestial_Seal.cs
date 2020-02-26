@@ -18,7 +18,7 @@ using Terraria.ModLoader.Config;
 using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
-namespace Boss_Uncomsumables.Items.Vanilla
+namespace Boss_Unconsumables.Items.Vanilla
 {
 	public class Celestial_Seal : ModItem
 	{
@@ -27,7 +27,7 @@ namespace Boss_Uncomsumables.Items.Vanilla
 		public override void SetStaticDefaults()
 		{
 			DisplayName.SetDefault("Lunar Tablet");
-			Tooltip.SetDefault("Not Comsumable\nSummons Moonlord Indefinitely.\nCan only be used during Lunar Event.\n'After years of pefection, I've finally made a structually sound sigil.'");
+			Tooltip.SetDefault("Not consumable\nSummons Moonlord Indefinitely.\nCan only be used during Lunar Event.\n'After years of pefection, I've finally made a structually sound sigil.'");
 			ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
 		}

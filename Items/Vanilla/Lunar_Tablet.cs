@@ -18,7 +18,7 @@ using Terraria.ModLoader.Config;
 using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
-namespace Boss_Uncomsumables.Items.Vanilla
+namespace Boss_Unconsumables.Items.Vanilla
 {
 	public class Lunar_Tablet : ModItem
 	{
@@ -27,7 +27,7 @@ namespace Boss_Uncomsumables.Items.Vanilla
 		public override void SetStaticDefaults()
 		{
 			DisplayName.SetDefault("Lunar Tablet");
-			Tooltip.SetDefault("Not Comsumable\nSummons Lunatic Cultist Indefinitely.\nDefeating multiple Cultists will invoke multiple sets of Pillars to spawn\n'Will spark the interest of Lovecraftian Cults.'");
+			Tooltip.SetDefault("Not consumable\nSummons Lunatic Cultist Indefinitely.\nDefeating multiple Cultists will invoke multiple sets of Pillars to spawn\n'Will spark the interest of Lovecraftian Cults.'");
 			ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
 		}

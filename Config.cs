@@ -16,7 +16,7 @@ using Terraria.ModLoader.Config;
 using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
-namespace Boss_Uncomsumables
+namespace Boss_Unconsumables
 {
 
 	public class Config : ModConfig

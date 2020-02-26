@@ -19,7 +19,7 @@ using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
 
-namespace Boss_Uncomsumables.Items.Vanilla
+namespace Boss_Unconsumables.Items.Vanilla
 {
 	public class Preserved_Suspicious_Looking_Eye : ModItem
 	{
@@ -28,7 +28,7 @@ namespace Boss_Uncomsumables.Items.Vanilla
 		public override void SetStaticDefaults() 
 		{
 			DisplayName.SetDefault("Preserved Suspicious Looking Eye"); 
-			Tooltip.SetDefault("Not Comsumable\nSummons Eye of Cthulhu Indefinitely.\nAn eyeball preserved with mushroom vinegar in a jar.");
+			Tooltip.SetDefault("Not consumable\nSummons Eye of Cthulhu Indefinitely.\nAn eyeball preserved with mushroom vinegar in a jar.");
 			ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
 		}

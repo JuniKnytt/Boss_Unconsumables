@@ -18,16 +18,17 @@ using Terraria.ModLoader.Config;
 using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
+
 namespace Boss_Unconsumables.Items.Vanilla
 {
-	public class Bulb_Effigy : ModItem
+	public class Truffle_Terrarium : ModItem
 	{
+		
 
-
-		public override void SetStaticDefaults()
+		public override void SetStaticDefaults() 
 		{
-			DisplayName.SetDefault("Plantera's Effigy");
-			Tooltip.SetDefault("Not consumable\nSummons Plantera Indefinitely.\nIt's an effigy of Plantera's bulb, but made out of mud powered by Chlorophyte.");
+			DisplayName.SetDefault("Truffle Terrarium"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
+			Tooltip.SetDefault("Not consumable\nSummons Duke Fishron Indefinitely.\nJust the scent from this thing is enough to attract pigs.");
 			ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
 		}
@@ -40,50 +41,45 @@ namespace Boss_Unconsumables.Items.Vanilla
 	
 			item.value = 0;
 			item.maxStack = 1;
-			item.value = 100;
-			item.rare = 8;
+
+			item.rare = 9;
 			item.useAnimation = 10;
 			item.useTime = 10;
 			item.useStyle = 4;
 			item.consumable = false;
 		}
-
+		
 		public override bool CanUseItem(Player player)
 		{
-
-			if (ModContent.GetInstance<Config>().MultiBoss)
+			
+			if (ModContent.GetInstance<Config>().MultiBoss) 
 			{
-				return player.ZoneJungle;
+				return player.ZoneBeach;
 			}
 			else
 			{
-				return player.ZoneJungle && !NPC.AnyNPCs(NPCID.Plantera);
+				return player.ZoneBeach && !NPC.AnyNPCs(NPCID.DukeFishron);
 			}
 		}
 
 		public override bool UseItem(Player player)
 		{
-			NPC.NewNPC((int)Main.MouseWorld.X, (int)Main.MouseWorld.Y, 262);
+			NPC.NewNPC((int)Main.MouseWorld.X, (int)Main.MouseWorld.Y, 370);
 
 
 			Main.PlaySound(SoundID.Roar, player.position, 0);
-
-
 			return true;
 		}
 
-		public override void AddRecipes()
+		public override void AddRecipes() 
 		{
 			ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.ChlorophyteBar, 5);
-			recipe.AddIngredient(ItemID.MudBlock, 15);
-			recipe.AddIngredient(ItemID.SoulofMight, 1);
-			recipe.AddIngredient(ItemID.SoulofSight, 1);
-			recipe.AddIngredient(ItemID.SoulofFright, 1);
+			recipe.AddIngredient(ItemID.TruffleWorm, 1);
+			recipe.AddIngredient(ItemID.GlowingMushroom, 20);
+			recipe.AddIngredient(ItemID.Terrarium, 1);
 			recipe.AddTile(TileID.MythrilAnvil);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}
 	}
 }
-

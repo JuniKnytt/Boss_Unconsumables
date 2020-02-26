@@ -19,7 +19,7 @@ using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
 
-namespace Boss_Uncomsumables.Items.Vanilla
+namespace Boss_Unconsumables.Items.Vanilla
 {
 	public class Preserved_Brain : ModItem
 	{
@@ -28,7 +28,7 @@ namespace Boss_Uncomsumables.Items.Vanilla
 		public override void SetStaticDefaults() 
 		{
 			DisplayName.SetDefault("Preserved Brain in a Jar");
-			Tooltip.SetDefault("Not Comsumable\nSummons Brain of Cthulhu Indefinitely.\nThe brain is the back-bone of the spinal nervous system");
+			Tooltip.SetDefault("Not consumable\nSummons Brain of Cthulhu Indefinitely.\nThe brain is the back-bone of the spinal nervous system");
 			ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
 		}
@@ -74,7 +74,7 @@ namespace Boss_Uncomsumables.Items.Vanilla
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BloodySpine, 1);
 			recipe.AddIngredient(ItemID.ViciousMushroom, 5);
-			recipe.AddIngredient(ItemID.BloodySpine, 5);
+			recipe.AddIngredient(ItemID.Vertebrae, 5);
 			recipe.AddTile(TileID.WorkBenches);
 			recipe.SetResult(this);
 			recipe.AddRecipe();

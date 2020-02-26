@@ -19,7 +19,7 @@ using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
 
-namespace Boss_Uncomsumables.Items.Vanilla
+namespace Boss_Unconsumables.Items.Vanilla
 {
 	public class Solid_Slime_Crown : ModItem
 	{
@@ -28,7 +28,7 @@ namespace Boss_Uncomsumables.Items.Vanilla
 		public override void SetStaticDefaults() 
 		{
 			DisplayName.SetDefault("Solid Slime Crown"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
-			Tooltip.SetDefault("Not Comsumable\nSummons King Slime Indefinitely.\nIt's rock solid.");
+			Tooltip.SetDefault("Not consumable\nSummons King Slime Indefinitely.\nIt's rock solid.");
 			ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
 		}
@@ -40,7 +40,7 @@ namespace Boss_Uncomsumables.Items.Vanilla
 			item.height = 32;
 	
 			item.value = 0;
-			item.maxStack = 20;
+			item.maxStack = 1;
 	
 			item.rare = 1;
 			item.useAnimation = 10;

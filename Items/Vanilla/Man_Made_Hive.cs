@@ -19,7 +19,7 @@ using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
 
-namespace Boss_Uncomsumables.Items.Vanilla
+namespace Boss_Unconsumables.Items.Vanilla
 {
 	public class Man_Made_Hive : ModItem
 	{
@@ -28,7 +28,7 @@ namespace Boss_Uncomsumables.Items.Vanilla
 		public override void SetStaticDefaults()
 		{
 			DisplayName.SetDefault("Man-Made Hive");
-			Tooltip.SetDefault("Not Comsumable\nSummons Queen Bee Indefinitely.\nNothing angers monarchs more than the enslavement of their people.");
+			Tooltip.SetDefault("Not consumable\nSummons Queen Bee Indefinitely.\nNothing angers monarchs more than the enslavement of their people.");
 			ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
 		}

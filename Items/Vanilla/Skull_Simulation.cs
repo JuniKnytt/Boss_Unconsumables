@@ -20,7 +20,7 @@ using Terraria.UI;
 
 
 
-namespace Boss_Uncomsumables.Items.Vanilla
+namespace Boss_Unconsumables.Items.Vanilla
 {
 	public class Skull_Simulation : ModItem
 	{
@@ -28,8 +28,8 @@ namespace Boss_Uncomsumables.Items.Vanilla
 
 		public override void SetStaticDefaults()
 		{
-			DisplayName.SetDefault("Preserved Suspicious Looking Eye");
-			Tooltip.SetDefault("Not Comsumable\nSummons Skeletron Prime Indefinitely.\nIt's a computerized simulation of a mechanical skull.");
+			DisplayName.SetDefault("Skull Simulation");
+			Tooltip.SetDefault("Not consumable\nSummons Skeletron Prime Indefinitely.\nIt's a computerized simulation of a mechanical skull.");
 			ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
 		}

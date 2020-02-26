@@ -1,4 +1,4 @@
 displayName = Infinite and Unconsumable Boss Summons
 author = Juni Knytt
-version = 1.0
-homepage = 
+version = 1.6.4
+homepage = https://forums.terraria.org/index.php?threads/infinite-and-or-unconsumable-boss-summons.85678/

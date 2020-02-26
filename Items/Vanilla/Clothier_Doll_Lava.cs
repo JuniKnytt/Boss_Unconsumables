@@ -19,7 +19,7 @@ using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
 
-namespace Boss_Uncomsumables.Items.Vanilla
+namespace Boss_Unconsumables.Items.Vanilla
 {
 
 		public class Clothier_Doll_Lava : ModItem
@@ -29,7 +29,7 @@ namespace Boss_Uncomsumables.Items.Vanilla
 			public override void SetStaticDefaults()
 			{
 				DisplayName.SetDefault("Clothier Voodoo Doll & Lava Bucket");
-				Tooltip.SetDefault("Not Comsumable\nSummons Skeletron Indefinitely.\nThe doll taking a little bit of heat is enough to invoke the curse while keeping the cursed alive.");
+				Tooltip.SetDefault("Not consumable\nSummons Skeletron Indefinitely.\nThe doll taking a little bit of heat is enough to invoke the curse while keeping the cursed alive.");
 				ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
 			}

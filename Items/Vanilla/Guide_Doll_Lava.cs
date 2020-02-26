@@ -19,7 +19,7 @@ using Terraria.ModLoader.Config.UI;
 using Terraria.UI;
 
 
-namespace Boss_Uncomsumables.Items.Vanilla
+namespace Boss_Unconsumables.Items.Vanilla
 {
 
 		public class Guide_Doll_Lava : ModItem
@@ -31,11 +31,11 @@ namespace Boss_Uncomsumables.Items.Vanilla
 				DisplayName.SetDefault("Guide Voodoo Doll & Lava Bucket");
 			if (ModContent.GetInstance<Config>().MultiBoss)
 			{
-				Tooltip.SetDefault("Not Comsumable\nSummons Skeletron Indefinitely.\nThe doll taking a little bit of heat is enough to act as a sacrifice while keeping the sacrifice alive. \n\n [WARNING] \n Do not spawn multiple wall of fleshs unless you like bugs.");
+				Tooltip.SetDefault("Not consumable\nSummons The Wall of Flesh Indefinitely.\nThe doll taking a little bit of heat is enough to act as a sacrifice while keeping the sacrifice alive. \n\n [WARNING] \n Do not spawn multiple Wall of Flesh unless you like bugs.");
 			}
 			else
 			{
-				Tooltip.SetDefault("Not Comsumable\nSummons Skeletron Indefinitely.\nThe doll taking a little bit of heat is enough to act as a sacrifice while keeping the sacrifice alive.");
+				Tooltip.SetDefault("Not consumable\nSummons The Wall of Flesh Indefinitely.\nThe doll taking a little bit of heat is enough to act as a sacrifice while keeping the sacrifice alive.");
 			}
 			ItemID.Sets.SortingPriorityBossSpawns[item.type] = 12;
 
